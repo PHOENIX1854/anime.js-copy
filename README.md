@@ -67,7 +67,6 @@ To directly view the pure SVG Anatomy Reveal figure:
 ├── anatomy/                   # Anatomy Reveal skill interactive figures
 │   ├── figure.html            # Dark theme vector dissection figure
 │   └── figure-light.html      # Light paper-look vector dissection figure
-├── anatomy-reveal-skill/      # Anatomy Reveal skill engine & templates
 ├── assets/
 │   ├── css/
 │   │   ├── core.css           # Anime.js design system & color tokens
